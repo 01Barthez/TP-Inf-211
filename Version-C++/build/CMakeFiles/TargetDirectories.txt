@@ -1,0 +1,3 @@
+/home/barthez/Desktop/kenwou-barthez_22T2959/Version-C++/build/CMakeFiles/supermarket_app.dir
+/home/barthez/Desktop/kenwou-barthez_22T2959/Version-C++/build/CMakeFiles/edit_cache.dir
+/home/barthez/Desktop/kenwou-barthez_22T2959/Version-C++/build/CMakeFiles/rebuild_cache.dir

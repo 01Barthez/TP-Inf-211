@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/supermarket_app.dir/src/main.cpp.o -o supermarket_app  -luuid 
